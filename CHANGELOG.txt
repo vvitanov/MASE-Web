@@ -1,0 +1,130 @@
+Измени на веб страната MASE
+2021-06-09
+	css/style.css
+	css/SYMPOSIUM.css
+	img/banner/symposium-banner.jpg
+	img/icon/SYMPOSIUM-favicon.png
+	*.html промена во менито - додадено ДГКМ19
+	
+2019-09-30 
+	downloads\MASE18-Final-programme.pdf 
+	MASE18-index-mk.html
+	MASE18-index.html
+	symposium-programme-mk.html
+	symposium-programme.html
+	
+2019-09-20 
+	img\icon\MASE18-favicon.ico додадено во сите html-и за ДГКМ18
+	
+
+2019-09-18
+	css\Mase-2019.css сменета боја од зелена во црвена
+	symposium-programme.html
+	symposium-programme-mk.html
+
+2019-09-17
+	img\MASE-calendar-iCal.png додадено
+	img\MASE-calendar-URL.png додадено
+	symposium-instructions.html додаден темплејт за постер
+	symposium-instructions-mk.html додаден темплејт за постер
+	templates\MASE2019-template-Poster.ppt
+	templates\MASE2019-template-Presentation.ppt 
+	awards-2016-2020-mk.html додадено
+	awards-2016-2020.html додадено
+	awards-2011-2015-mk.html додадени награди од 2015 до 2016
+	awards-2011-2015.html додадени награди од 2015 до 2016
+	symposium-programme-mk.html додадено
+	symposium-programme.html додадено
+	downloads\MASE18-Preliminary-programme-mk.pdf додадено
+	downloads\MASE18-Preliminary-programme.pdf додадено
+	Сите англиски страни: реорганизација на менито
+
+2019-09-04 PUBLISHED
+	index-mk.html корекција на линкот
+	awards-2011-2015.html додадено
+	awards-2011-2015-mk.html додадено
+	awards-1991-1995.html
+	awards-1996-2000.html
+	awards-2001-2005.html
+	awards-2006-2010.html
+	awards-2011-2015.html
+	index.html
+	Inside-MASE.html
+	journal.html
+	MASE-previous-symposia.html
+	MASE15-symposium.html
+	MASE16-symposium.html
+	MASE17-symposium.html
+	mem-honorary-members.html
+	mem-membership-statutes.html
+	mem-meritorious-members.html
+	
+
+2019-08-08 PUBLISHED
+	img\invited-speakers\MASE18-Goran-MARKOVSKI.jpg Нова слика за Горан Марковски
+	img\invited-speakers\MASE18-Veronika-SHENDOVA.jpg Слика за Вероника Шендова
+	MASE18-index.html
+	MASE18-index-mk.html
+	
+2019-06-20 PUBLISHED
+	symposium-instructions.html - updejt на темплејтите и инструкциите
+	symposium-instructions-mk.html - updejt на темплејтите и инструкциите
+
+2019-06-17 PUBLISHED
+	symposium-instructions.html - Објавување на темплејтите за трудовите
+		templates\Full_Paper_MASE_2019_Template.docx
+		templates\Full_Paper_MASE_2019_Template_mk.docx
+	index-mk.html - Досредена почетната страна 
+	symposium-registration.html - Сменет датумот за уплата на котизацијата 
+	symposium-venue.html - објавени цените на сместувањето
+	MASE18-index.html - додадени повикани предавања
+	MASE18-index-mk.html - додадени повикани предавања
+	symposium-marketing.html - додадени ставка во менито за македонски јазик
+	symposium-correspondence.html - mail адресата на mase е ставена да биде прва
+	*-mk.html - Преуредување во македонското мени
+	Додадено (ново):
+		MASE18-index-mk.html (почетна страна за ДГКМ 18 на македонски)
+		symposium-important-dates-mk.html
+		symposium-instructions-mk.html
+		symposium-venue-mk.html
+		symposium-correspondence-mk.html
+		symposium-marketing-mk.html
+
+2019-06-07 PUBLISHED
+	symposium-instructions.html - моментално тргнат full paper template за да се корегира
+	MASE18-index.html - додаден постерот за симпозиумот
+	symposium-important-dates - update на датумот за апстракти со дополнителна напомена
+	Отрстранети референицте за extended abstract (зошто нема да се прави таков) во:
+		symposium-important-dates
+		symposium-instructions.html
+
+2019-05-10 PUBLISHED
+	Отворен нов фолдер templates. Ставен е во него Word teplate-от за full paper
+	Додаден Full Paper Tempate во symposium-instructions.html
+
+2019-03-12 PUBLISHED
+	Преуредување на менито awards 
+
+2019-03-06 PUBLISHED
+	Додадено css за MASE-2019: MASE-2019.css и употребено во MASE18-index.html. Со тоа може да се смени стилот на страната и да се одвои од страната на MASE.
+	
+	Додадени фајлови во кои е содржината за актуелниот симпозиум:
+		symposium-organization.html
+		symposium-instructions.html
+		symposium-important-dates.html
+		symposium-registration.html
+		symposium-venue.html
+		symposium-marketing.html
+		symposium-correspondence.html
+
+2019-03-02 PUBLISHED
+	Додаена македонска верзија
+		index-mk.html
+		Inside-MASE-mk.html
+		mem-meritorious-members-mk.html
+		etc.
+
+		
+Сменета зелената боја (#A7CB00) со плава (#38445D) во style.css и responsive.css
+
+Сменета сивата боја (#777777) на ТЕКСТ со црна (#000000) во style.css (освен во footer)
