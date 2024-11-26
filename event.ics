@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:20250924-inex-olgica@example.com
+DTSTAMP:20231122T120000Z
+DTSTART:20250924T000000Z
+DTEND:20250927T235900Z
+SUMMARY:Event at Inex Olgica Hotel, Ohrid
+DESCRIPTION:Join us for this amazing event at Inex Olgica Hotel in Ohrid from September 24 to September 27, 2025.
+LOCATION:Inex Olgica Hotel, Ohrid, North Macedonia
+END:VEVENT
+END:VCALENDAR
