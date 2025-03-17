@@ -1,5 +1,5 @@
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
-    background: #ef1337;
+    background: #2F4766;
     color: #fff;
 }
 
@@ -9,7 +9,7 @@
     top: -70px;
     left: 0;
     right: 0;
-    background: #ef1337;
+    background: #2F4766;
     transform: translateY(70px);
     transition:
         transform 500ms ease,
@@ -21,11 +21,11 @@
 }
 
 .top_menu .float-left a:hover {
-    color: #ef1337;
+    color: #2F4766;
 }
 
 .top_menu .float-right .pur_btn {
-    background: #ef1337;
+    background: #2F4766;
     color: #fff;
     font-family: "Source Sans Pro", "Roboto", sans-serif;
     line-height: 40px;
