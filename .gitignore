@@ -3,3 +3,6 @@ downloads/root.downloads.zip
 img/icon/.DS_Store
 .DS_Store
 *.zip
+.DS_Store
+img/.DS_Store
+vendors/.DS_Store
